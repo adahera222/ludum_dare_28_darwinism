@@ -1,0 +1,29 @@
+{
+  "name": "darwinism",
+  "version": "0.0.0",
+  "description": "ludum dare 2013 dec jam",
+  "main": "web.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wilsonandcompany/ludum_dare_28_darwinism.git"
+  },
+  "keywords": [
+    "ludum",
+    "dare"
+  ],
+  "author": "wilson leong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wilsonandcompany/ludum_dare_28_darwinism/issues"
+  },
+  "homepage": "https://github.com/wilsonandcompany/ludum_dare_28_darwinism",
+  "dependencies": {
+    "connect": "*"
+  }
+}
